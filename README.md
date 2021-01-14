@@ -1,24 +1,6 @@
 # quantity-calculator
 
-## Project setup
-```
-npm install
-```
+## 14.01.2021
+### Currently no functionality because i can't seem to figure out the logic yet and im very new to Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
